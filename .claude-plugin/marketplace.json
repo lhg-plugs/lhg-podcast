@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"播客制作专家：选题→大纲→录制指引→剪辑→shownotes→封面与RSS分发，一期节目全流程","name":"lhg-podcast","source":"./"}]}

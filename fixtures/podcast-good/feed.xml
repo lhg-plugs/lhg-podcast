@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>副业实验室</title>
+    <description>一档聊副业试错的播客节目：每周三更新，用最小成本验证第二个收入来源，分享真实案例与避坑经验，适合想开启副业的上班族。</description>
+    <link>https://example.com/podcast</link>
+    <language>zh-CN</language>
+    <itunes:author>刘洪光</itunes:author>
+    <itunes:image href="https://example.com/podcast/cover.png"/>
+    <item>
+      <title>EP08：副业第二课——把技能变成收入</title>
+      <guid>ep08</guid>
+      <pubDate>Sun, 11 Oct 2026 08:00:00 +0800</pubDate>
+      <description>本期聊把技能变成收入的三种路径：技能变现、内容复利、服务打包，并回答听众提问。</description>
+      <enclosure url="https://example.com/podcast/ep08.mp3" length="40500000" type="audio/mpeg"/>
+      <itunes:duration>42:15</itunes:duration>
+    </item>
+  </channel>
+</rss>
